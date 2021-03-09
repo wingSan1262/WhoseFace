@@ -28,3 +28,10 @@ For code sharing will shared in GitHub.com later on Alpha 3 (1003).
 Cheers ...
 
 Btw, press back to see setting screen again. I kinda hate action bar back button.
+
+
+# How to operate
+
+How to operate is first use you need to train on some face first, then you can star recognize
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)

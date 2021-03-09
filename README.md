@@ -1,4 +1,4 @@
-# FaceRecognitionTFLite
+# WhoseFace (TFLite Face Recognize)
 
 About Whose Face.
 

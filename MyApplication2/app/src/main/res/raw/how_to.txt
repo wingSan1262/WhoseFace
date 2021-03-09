@@ -1,0 +1,17 @@
+How to ???
+
+Basically, you operate with just the two button shown above:
+
+1. Capture Button -> for teaching the model
+
+Click on this button, then the program will detect a single face found.
+If found then application will show the face image that will used for teaching the model.
+User may follow the instruction in the dialog with face shown on dialog.
+
+2. Recognize -> for recognizing
+
+Click on this button to recognize a face.
+A dialog will show the face with it's name and distance value will shown
+The lower the distance the more similar recognize face with the model learned.
+Or will show unrecognized face if the distance greater than 0.8 value.
+User may just follow the dialog after tapping te recognize button.

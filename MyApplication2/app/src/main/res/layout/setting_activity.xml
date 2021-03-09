@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="top">
+
+    <Button
+        android:id="@+id/face_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/face_list"
+        android:textSize="18sp"
+        android:paddingStart="25dp"
+        android:textAlignment="textStart"
+        android:layout_marginTop="25dp"
+        android:background="@color/dim_gray"
+        tools:ignore="RtlSymmetry"/>
+
+    <Button
+        android:id="@+id/flush_face"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/flush_face"
+        android:textSize="18sp"
+        android:paddingStart="25dp"
+        android:textAlignment="textStart"
+        android:layout_marginTop="20dp"
+        android:background="@color/dim_gray"
+        tools:ignore="RtlSymmetry"/>
+
+    <Button
+        android:id="@+id/how_to"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/how_to"
+        android:textSize="18sp"
+        android:paddingStart="25dp"
+        android:textAlignment="textStart"
+        android:layout_marginTop="20dp"
+        android:background="@color/dim_gray"
+        tools:ignore="RtlSymmetry" />
+
+    <Button
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/about"
+        android:textSize="18sp"
+        android:paddingStart="25dp"
+        android:textAlignment="textStart"
+        android:layout_marginTop="20dp"
+        android:background="@color/dim_gray"
+        tools:ignore="RtlSymmetry" />
+
+</LinearLayout>

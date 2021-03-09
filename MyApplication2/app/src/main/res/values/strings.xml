@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Whose Face Is This?</string>
+    <string name="str_nope">Shut Up Bitch!</string>
+    <string name="str_permission_retry">Aight, lemme get it</string>
+    <string name="permission_denied_title">Permission Denied</string>
+    <string name="permission_denied_message1">You Motherfucker Denied The Permission!</string>
+    <string name="capture_shit">hmm capture???</string>
+    <string name="recognize">recognize</string>
+    <string name="register_here_button">Register Here</string>
+    <string name="name_title">Name:</string>
+    <string name="distance_tag">distance</string>
+    <string name="training_model">Training Model, Please Wait</string>
+    <string name="face_list">Face List</string>
+    <string name="flush_face">Flush Face</string>
+    <string name="about">About</string>
+    <string name="error_raw_cannot_load">Error: can\'t show help.</string>
+    <string name="delete_face">Deleting Faces</string>
+    <string name="delete_msg1">Delete Face, Sure? Your model will kinda dumb after you restart app.</string>
+    <string name="aigth">Aigth, then ...</string>
+    <string name="how_to">How To</string>
+</resources>

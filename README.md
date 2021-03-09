@@ -33,5 +33,5 @@ Btw, press back to see setting screen again. I kinda hate action bar back button
 # How to operate
 
 How to operate is first use you need to train on some face first, then you can star recognize
-![GitHub Logo](Screenshot_2021-03-09-18-36-48-551_com.example.myapplication2.png)
+![GitHub Logo](Screenshot_2021-03-09-18-36-48-551_com.example.myapplication2.png = 250x)
 Format: ![Alt Text](capture)
